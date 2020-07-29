@@ -1,6 +1,6 @@
 # Portifólio de Projetos - Guilherme Costa
 
-## Projetos de Data Science, Automação de relatórios, [Data Analysis e Dashboards](#Data-Analysis-e-Dashboards).
+## Projetos de [Data Science](#data-science), Automação de relatórios, [Data Analysis e Dashboards](#Data-Analysis-e-Dashboards).
 
 <br>  
 
@@ -51,5 +51,12 @@ Este Dashboard foi construído com o objetivo de monitorar o volume de tráfego 
 <br>  
 
 ![image](https://github.com/Gui-Costa1/Guilherme_Portifolio/blob/master/Dashboard%202%20(Traf%20hora%20afl)%202.png?raw=true)
+<br>  
+
+<br>  
+
+<br>  
+
+## Data Science
 
 
