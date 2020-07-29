@@ -1,6 +1,6 @@
 # Portifólio de Projetos - Guilherme Costa
 
-## Projetos de data science, automação de relatórios, data analysis e [dashboards](#Dashboards).
+## Projetos de data science, Automação de relatórios, [Data Analysis e Dashboards](#Data Analysis e Dashboards).
 
 <br>  
 
@@ -16,7 +16,7 @@ Este .Git esta dividido em sessões de acordo com o tipo de projeto e as ferrame
 
 <br>  
 
-## Dashboards
+## Data Analysis e Dashboards
 
 <br>  
 
