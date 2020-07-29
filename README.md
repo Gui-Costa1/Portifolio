@@ -1,6 +1,6 @@
 # Portifólio de Projetos - Guilherme Costa
 
-## Projetos de [Data Science](#data-science), [Automação de Relatórios](#automação-de-relatorios, [Data Analysis e Dashboards](#data-analysis-e-dashboards).
+## Projetos de [Data Science](#data-science), [Automação de Relatórios](#automação-de-relatorios), [Data Analysis e Dashboards](#data-analysis-e-dashboards).
 
 <br>  
 
