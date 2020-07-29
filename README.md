@@ -43,10 +43,10 @@ Este Dashboard foi construído com o objetivo de monitorar o volume de tráfego 
 
 <br>  
 
-![image](https://github.com/Gui-Costa1/Guilherme_Portifolio/blob/master/Dashboard%201%20(arrecadacao%20afl).png?raw=true)  
+![image](https://github.com/Gui-Costa1/Guilherme_Portifolio/blob/master/Dashboard%202%20(Traf%20hora%20afl).png?raw=true)  
 
 <br>  
 
-![image](https://github.com/Gui-Costa1/Guilherme_Portifolio/blob/master/Dashboard%201%20(arrecadacao%20afl)%202.png?raw=true)
+![image](https://github.com/Gui-Costa1/Guilherme_Portifolio/blob/master/Dashboard%202%20(Traf%20hora%20afl)%202.png?raw=true)
 
 
