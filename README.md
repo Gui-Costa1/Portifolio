@@ -31,6 +31,22 @@ Painel desenvolvido de acordo com as especificações do cliente (atualização 
 
 <br>  
 
+![image](https://github.com/Gui-Costa1/Guilherme_Portifolio/blob/master/Dashboard%201%20(arrecadacao%20afl)%202.png?raw=true)  
+
+<br>  
+
+### Estudo de tráfego de veículos por hora.
+
+<br>  
+
+Este Dashboard foi construído com o objetivo de monitorar o volume de tráfego por hora. O volume de dados trabalhados era imenso e, por questões de performance, optei por reduzir o periodo de consulta ao BD. Como é comum a este tipo de projeto, um extensivo trabalho de ETL foi necessário para normalizar os dados e tornar possível a consolidação de dados de diversas fontes em um só dashboard. Bancos de dados Oracle e tabelas de excel alimentam este trabalho alem de tabelas de apoio criadas diretamente no modelo de dados.
+
+<br>  
+
+![image](https://github.com/Gui-Costa1/Guilherme_Portifolio/blob/master/Dashboard%201%20(arrecadacao%20afl).png?raw=true)  
+
+<br>  
+
 ![image](https://github.com/Gui-Costa1/Guilherme_Portifolio/blob/master/Dashboard%201%20(arrecadacao%20afl)%202.png?raw=true)
 
 
