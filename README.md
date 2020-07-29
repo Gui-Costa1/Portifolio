@@ -73,7 +73,24 @@ Este Dashboard foi construído com o objetivo de monitorar o volume de tráfego 
 
 <br>  
 
-**WIP**
+### Ferramenta para cadastro de informações de Recusrsos Humanos.
+
+<br>  
+
+A demanda envolvia a unificação de diversas planilhas de controle da área de RH em um arquivo unico, controlado e padronizado para posterior criação de um painel de indicadores da área consolidando informações de seleção, demissão, head-count, treinamento, etc. Considerando o escopo do projeto, a quantidade de usuários, a finalidade e a origem dos dados, optei por desenvolver a ferramenta no Excel. Haviam duas situações: carga de planilha externa ou cadastro individual de dados. Diversos formulários foram criados, cada um com suas particularidades. 
+
+<br>  
+
+![image](https://github.com/Gui-Costa1/Guilherme_Portifolio/blob/master/Importador%20RH%201.png?raw=true)  
+
+<br>  
+
+![image](https://github.com/Gui-Costa1/Guilherme_Portifolio/blob/master/Importador%20RH%202.png?raw=true)
+<br>  
+
+<br>  
+
+<br>  
 
 
 
