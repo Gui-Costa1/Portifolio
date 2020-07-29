@@ -1,6 +1,7 @@
 # Portifólio de Projetos - Guilherme Costa
 
-## *Projetos de data science, automação de relatórios, data analysis e [dashboards](# Dashboards - Power BI).*
+## Projetos de data science, automação de relatórios, data analysis e [dashboards](#Dashboards).
+
 <br>  
 
 Os projetos relacionados foram desenvolvidos utilizando o Microsoft Power BI, Microsfot Excel, Python, R e outras ferramentas como apoio.  
@@ -15,7 +16,7 @@ Este .Git esta dividido em sessões de acordo com o tipo de projeto e as ferrame
 
 <br>  
 
-## Dashboards - Power BI
+## Dashboards
 
 <br>  
 
