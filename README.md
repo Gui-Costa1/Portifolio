@@ -1,6 +1,6 @@
 # Portifólio de Projetos - Guilherme Costa
 
-## Projetos de [Data Science](#data-science), Automação de relatórios, [Data Analysis e Dashboards](#Data-Analysis-e-Dashboards).
+## Projetos de [Data Science](#data-science), [Automação de Relatórios](#automação-de-relatórios, [Data Analysis e Dashboards](#data-analysis-e-dashboards).
 
 <br>  
 
@@ -58,5 +58,22 @@ Este Dashboard foi construído com o objetivo de monitorar o volume de tráfego 
 <br>  
 
 ## Data Science
+
+<br>  
+
+**WIP
+
+<br>  
+
+<br>  
+
+<br>  
+
+## Automação de Relatórios
+
+<br>  
+
+**WIP
+
 
 
