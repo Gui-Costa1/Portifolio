@@ -1,7 +1,5 @@
 [![Linkedin](/logo%20linkedin%2050x50.jpg)](https://www.linkedin.com/in/guilherme-costa-9b749238/)
-
-[1]: https://github.com/Gui-Costa1/Portifolio/blob/master/logo%20linkedin%2050x50.jpg?raw=true
-[2]: www.linkedin.com/in/guilherme-costa-9b749238
+[![Github](/logo%20git%2050x50.jpg)](https://github.com/Gui-Costa1)
 
 ## Projetos de Data Science, Automação de Relatórios, Data Analysis e Dashboards.
 
@@ -42,7 +40,7 @@ Painel desenvolvido de acordo com as especificações do cliente (atualização 
 ![image](https://github.com/Gui-Costa1/Guilherme_Portifolio/blob/master/Dashboard%201%20(arrecadacao%20afl).png?raw=true)  
 
 <br>  
-
+ 
 ![image](https://github.com/Gui-Costa1/Guilherme_Portifolio/blob/master/Dashboard%201%20(arrecadacao%20afl)%202.png?raw=true)  
 
 <br>  
