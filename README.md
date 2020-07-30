@@ -36,7 +36,7 @@ Painel desenvolvido de acordo com as especificações do cliente (atualização 
 
 <br>  
 
-![image](https://github.com/Gui-Costa1/Guilherme_Portifolio/blob/master/Dashboard%201%20(arrecadacao%20afl).png?raw=true)  
+![image](https://github.com/Gui-Costa1/Guilherme_Portifolio/blob/master/Dashboard%201%20(arrecadacao%20afl).png?raw=false)  
 
 <br>  
 
