@@ -1,5 +1,5 @@
-[![Linkedin](/logo%20linkedin%2050x50.jpg)](https://www.linkedin.com/in/guilherme-costa-9b749238/)
-[![Github](/logo%20git%2050x50.jpg)](https://github.com/Gui-Costa1)
+[![Linkedin](https://github.com/Gui-Costa1/Portifolio/blob/master/logo%20linkedin%2050x50.jpg?eaw=true)](https://www.linkedin.com/in/guilherme-costa-9b749238/)
+[![Github](https://github.com/Gui-Costa1/Portifolio/blob/master/logo%20git%2050x50.jpg?raw=true)](https://github.com/Gui-Costa1)
 
 ## Projetos de Data Science, Automação de Relatórios, Data Analysis e Dashboards.
 
