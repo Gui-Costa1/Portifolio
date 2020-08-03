@@ -1,3 +1,17 @@
+  
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-31480767-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-31480767-2');
+</script>
+</head>
+
+
 <a href="https://www.linkedin.com/in/guilherme-costa-9b749238/" rel="Linkedin"><img src="https://github.com/Gui-Costa1/Portifolio/blob/master/logo%20linkedin%2050x50.jpg?raw=true" width="30"></a>
 <a href="https://github.com/Gui-Costa1" rel="Github"><img src="https://github.com/Gui-Costa1/Portifolio/blob/master/logo%20git%2050x50.jpg?raw=true" width="30"></a>
 <a href="https://www.kaggle.com/guicosta" rel="Kaggle"><img src="https://github.com/Gui-Costa1/Portifolio/blob/master/logo%20kaggle%2050x50.jpg?raw=true" width="30"></a>
