@@ -134,8 +134,14 @@ Treinamento da ferramenta Excel desenvolvida para atender a necessidade da compa
 ![image](https://github.com/Gui-Costa1/Portifolio/blob/master/TreinamentoExcel.png?raw=true)  
 
 <br>  
- 
-![image](https://github.com/Gui-Costa1/Guilherme_Portifolio/blob/master/Dashboard%201%20(arrecadacao%20afl)%202.png?raw=true)  
+
+<br>  
+
+Treinamento da ferramenta Power BI incorporando conceitos de Business Intelligence, processamento de dados e tomad de decisão.
+
+<br>  
+
+![image](https://github.com/Gui-Costa1/Portifolio/blob/master/TreinamentoPBI.png?raw=true)  
 
 <br>  
 
