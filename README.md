@@ -37,6 +37,7 @@ Este .Git esta dividido em sessões de acordo com o tipo de projeto e as ferrame
   * [Data Analysis e Dashboards](#data-analysis-e-dashboard)
   * [Data Science](#data-science)
   * [Automação de Relatórios](#automação-de-relatórios)
+  * [Outros Projetos](#outros-projetos)
 
 <br>  
 
@@ -118,5 +119,26 @@ A demanda envolvia a unificação de diversas planilhas de controle da área de 
 
 <br>  
 
+## Outros Projetos
+
+<br>  
+
+### Treinamentos desenvolvidos.
+
+<br>  
+
+Treinamento da ferramenta Excel desenvolvida para atender a necessidade da companhia de disseminar a cultura de dados entre as equipes analíticas de diversas áreas. Treinamento foi desenvolvido visando compreender todo o processo de tomada de decisão orientada por dados, da coleta e "beneficiamento" dos dados, ate as ferramentas da qualidade de tomada de decisão, passando por tecnicas de constrção de bancos de dados, seguranca da informação e visualização. udo utilizando o Excel como plataforma.
+
+<br>  
+
+![image](https://github.com/Gui-Costa1/Portifolio/blob/master/TreinamentoExcel.png?raw=true)  
+
+<br>  
+ 
+![image](https://github.com/Gui-Costa1/Guilherme_Portifolio/blob/master/Dashboard%201%20(arrecadacao%20afl)%202.png?raw=true)  
+
+<br>  
+
+<br>  
 
 
